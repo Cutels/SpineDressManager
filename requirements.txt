@@ -1,0 +1,14 @@
+# Spine Dress Manager 依赖列表
+# Python 3.8+
+
+# GUI框架 (Python标准库，无需安装)
+# tkinter
+
+# 数据库 (Python标准库，无需安装)
+# sqlite3
+
+# 打包工具
+pyinstaller>=5.0
+
+# 其他依赖都是Python标准库：
+# pathlib, json, datetime, sys, os, shutil
